@@ -15,7 +15,7 @@
 ---
 
 ## 📫 How to reach me
-- 💼 [LinkedIn](https://linkedin.com/othmane-ataallah)
+- 💼 [LinkedIn](https://linkedin.com/in/othmane-ataallah)
 - 📧 othmane.ataallah.pro@gmail.com
 - 🐦 [Twitter/X](https://x.com/OthmaneAtaallah)
 
