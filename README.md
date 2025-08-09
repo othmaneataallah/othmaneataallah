@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**othmaneataallah/othmaneataallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineer** | 💻 Passionate about building scalable systems, robots, & sharing knowledge.=
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💡 Passionate about learning, exploring, and connecting ideas across different domains.
+- 🎥 Co-creator of an [educational YouTube channel](https://youtube.com/@CodiM3ana) focusing on **backend development**, **programming**, & **computer science**.
+- 🛠 Currently building:
+  - An **automatic certificate generator**.
+  - A **club management platform**.
+  - A **hackathon management platform**.
+
+---
+
+## 📫 How to reach me
+- 💼 [LinkedIn](https://linkedin.com/othmane-ataallah)
+- 📧 othmane.ataallah.pro@gmail.com
+- 🐦 [Twitter/X](https://x.com/OthmaneAtaallah)
+
+---
+
+*Could’ve written code, wrote this instead.*
