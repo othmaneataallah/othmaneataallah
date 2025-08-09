@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 **Software Engineer** | 💻 Passionate about building scalable systems, robots, & sharing knowledge.=
+🎓 **Software Engineer** | 💻 Passionate about building scalable systems, robots, & sharing knowledge.
 
 ---
 
