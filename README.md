@@ -7,10 +7,6 @@
 ## 🚀 About Me
 - 💡 Passionate about learning, exploring, and connecting ideas across different domains.
 - 🎥 Co-creator of an [educational YouTube channel](https://youtube.com/@CodiM3ana) focusing on **backend development**, **programming**, & **computer science**.
-- 🛠 Currently building:
-  - An **automatic certificate generator**.
-  - A **club management platform**.
-  - A **hackathon management platform**.
 
 ---
 
